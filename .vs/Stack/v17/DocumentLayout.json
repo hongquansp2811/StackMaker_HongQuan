@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\cube runner 2d\\stack\\assets\\_game\\scripts\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\assets\\_game\\scripts\\stackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\stackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\assets\\_game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\assets\\_game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\assets\\_game\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\assets\\_game\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\assets\\_game\\scripts\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD737ACA-79B4-D9E4-8092-9A46298973B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:10:25.833Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\Stack.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Stack.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\Stack.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Stack.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwEAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:09:54.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Singleton.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\Singleton.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:24:26.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\LevelManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:29:34.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:55:38.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:21:20.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\StackManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\StackManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Cube Runner 2D\\Stack\\Assets\\_Game\\Scripts\\StackManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\StackManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:46:06.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
